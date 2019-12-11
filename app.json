@@ -1,0 +1,19 @@
+{
+  "appKey": "2oUU3f9QTlxrExlyOffbcwRSW0hQZSIM",
+  "appSecret": "t3R8d0juRMQ6Bdawy90Yj0sT9uhDH5p4",
+  "projectId": "8169e0b336f2872e44def725deda7f56",
+  "id": 305,
+  "name": "dd123",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chenxing-lh/serverless-env.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "lh15627836616"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
